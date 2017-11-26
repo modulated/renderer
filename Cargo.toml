@@ -1,0 +1,6 @@
+[package]
+name = "renderer"
+version = "0.1.0"
+authors = ["George <cowkingdom@hotmail.com>"]
+
+[dependencies]
